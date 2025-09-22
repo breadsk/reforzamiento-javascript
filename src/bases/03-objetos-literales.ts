@@ -1,4 +1,7 @@
 
+
+//Es mejor crear un objeto como interface
+//Es mas ordenado
 interface Person {
     firstName: string;
     lastName: string;
